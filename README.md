@@ -8,6 +8,7 @@ Start Command : npm start
 ##Expected Data
 When running the application, is expected to generate something like this
 # Markdown
+```
 "success": "true",
   "date": "2020-07-16T04:55:10.619Z",
   "games": [
@@ -25,4 +26,5 @@ When running the application, is expected to generate something like this
         ]
       }
     },
+```
 
