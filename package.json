@@ -1,0 +1,11 @@
+{
+  "name": "quake-log-parser",
+  "version": "1.0.0",
+  "description": "An API that returns the information from the games like Players who has changed their names, numbers of kills and games",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gustavo Henrique",
+  "license": "ISC"
+}
